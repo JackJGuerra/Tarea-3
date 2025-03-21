@@ -1,17 +1,8 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.umg.curso.ejercicio1colas;
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-/**
- *
- * @author Michelle
- */
 public class Ejercicio1Colas {
 
     public static void main(String[] args) {
